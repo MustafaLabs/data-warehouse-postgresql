@@ -12,3 +12,7 @@ This project showcases a **Data Warehouse** built with **PostgreSQL** following 
 - **Model:** Star Schema (Fact & Dimension tables)
 
 
+
+**Author : ** Mustafa Ozturk
+[Linkedin](https://www.linkedin.com
+
