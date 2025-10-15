@@ -14,5 +14,5 @@ This project showcases a **Data Warehouse** built with **PostgreSQL** following 
 
 
 **Author : ** Mustafa Ozturk
-[Linkedin](https://www.linkedin.com
+Software Quality | Data 
 
