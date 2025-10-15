@@ -11,7 +11,27 @@ This project showcases a **Data Warehouse** built with **PostgreSQL** following 
   - **Gold:** Business ready, aggregated data for reporting
 - **Model:** Star Schema (Fact & Dimension tables)
 
+---
 
+## Tech Stack
+
+
+| Component | Description |
+|-----------|-------------|
+| **Database** | PostgreSQL |
+| **Tools** | DBeaver / pgAdmin / psql |
+| **Architecture** | Medallion (Bronze-Silver-Gold) |
+| **Focus** | ETL, Data Modeling, Analytics |
+
+---
+
+## Highlights
+- ETL Process : Extract ---> Transform ---> Load
+- Clean, standardized, and aggregated data layers
+- Analytical queries for BI and reporting
+- Real-world architecture for data engineering practice
+
+---
 
 **Author : ** Mustafa Ozturk
 Software Quality | Data 
