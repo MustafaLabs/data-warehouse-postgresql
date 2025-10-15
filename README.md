@@ -34,5 +34,5 @@ This project showcases a **Data Warehouse** built with **PostgreSQL** following 
 ---
 
 **Author:** Mustafa Ozturk
-Software Quality | Data 
+- Software Quality | Data 
 
