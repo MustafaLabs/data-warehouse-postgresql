@@ -1,3 +1,13 @@
+-- =================================================================
+-- Script: ddl_bronze.sql
+-- Purpose: Defines CRM and ERP tables in the Bronze Layer
+--
+-- Description:
+--   Creates the Bronze schema and related CRM/ERP tables
+--   if they do not already exist.
+--   Ideal for raw data ingestion in version controlled environments.
+-- ==================================================================
+
 CREATE SCHEMA IF NOT EXISTS bronze;
 
 CREATE TABLE IF NOT EXISTS bronze.crm_cust_info (
